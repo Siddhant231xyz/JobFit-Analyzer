@@ -66,7 +66,7 @@ JobFit Analyzer is an AI-powered web application that revolutionizes the recruit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/jobfit-analyzer.git
+git clone https://github.com/Siddhant231xyz/jobfit-analyzer.git
 cd jobfit-analyzer
 ```
 
@@ -105,12 +105,8 @@ For detailed documentation, please visit our [Wiki](../../wiki).
 jobfit-analyzer/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Project dependencies
-├── src/
-│   ├── analyzer/         # Core analysis modules
-│   ├── utils/            # Utility functions
-│   └── config/           # Configuration files
-├── assets/               # Images and static files
-└── tests/                # Test files
+├── code.py                # The Basic code without GUI
+
 ```
 
 ## Contributing 🤝
