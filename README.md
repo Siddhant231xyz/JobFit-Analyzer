@@ -22,10 +22,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-<<<<<<< HEAD
 
-=======
->>>>>>> 29b488dd72fe4bae9fd438428904ae7bcd90351e
 </details>
 
 # JobFit Analyzer 🎯
@@ -44,19 +41,13 @@ JobFit Analyzer is an AI-powered web application that revolutionizes the recruit
 ## Features ✨
 
 - 📄 **Smart Document Processing**
-<<<<<<< HEAD
 
-=======
->>>>>>> 29b488dd72fe4bae9fd438428904ae7bcd90351e
   - Upload and analyze Job Description PDFs
   - Process multiple candidate resumes
   - Automatic embedding computation
 
 - 🔍 **Advanced Analysis**
-<<<<<<< HEAD
 
-=======
->>>>>>> 29b488dd72fe4bae9fd438428904ae7bcd90351e
   - Real-time similarity scoring
   - Multiple query modes for comprehensive analysis
   - RAG-prompt integration for intelligent responses
@@ -77,39 +68,27 @@ JobFit Analyzer is an AI-powered web application that revolutionizes the recruit
 ### Installation
 
 1. Clone the repository:
-<<<<<<< HEAD
 
-=======
->>>>>>> 29b488dd72fe4bae9fd438428904ae7bcd90351e
 ```bash
 git clone https://github.com/Siddhant231xyz/jobfit-analyzer.git
 cd jobfit-analyzer
 ```
 
 2. Set up virtual environment:
-<<<<<<< HEAD
 
-=======
->>>>>>> 29b488dd72fe4bae9fd438428904ae7bcd90351e
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 3. Install dependencies:
-<<<<<<< HEAD
 
-=======
->>>>>>> 29b488dd72fe4bae9fd438428904ae7bcd90351e
 ```bash
 pip install -r requirements.txt
 ```
 
 4. Set up environment variables:
-<<<<<<< HEAD
 
-=======
->>>>>>> 29b488dd72fe4bae9fd438428904ae7bcd90351e
 ```bash
 echo "OPENAI_API_KEY=your_api_key_here" > .env
 ```
@@ -117,10 +96,7 @@ echo "OPENAI_API_KEY=your_api_key_here" > .env
 ### Usage
 
 1. Start the application:
-<<<<<<< HEAD
 
-=======
->>>>>>> 29b488dd72fe4bae9fd438428904ae7bcd90351e
 ```bash
 streamlit run app.py
 ```
