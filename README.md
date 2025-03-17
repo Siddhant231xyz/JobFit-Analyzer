@@ -33,6 +33,8 @@ SOFTWARE.
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
 ## Overview 📋
+![image](https://github.com/user-attachments/assets/44e7bee2-77fd-46ed-b1de-35a17dc61acf)
+
 
 JobFit Analyzer is an AI-powered web application that revolutionizes the recruitment process by automatically analyzing job descriptions and candidate resumes. Built with Streamlit and leveraging advanced embedding techniques, it provides instant similarity scores and interactive Q&A capabilities to help recruiters make informed decisions.
 
